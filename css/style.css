@@ -421,11 +421,9 @@ html {
     font-size: 17px;
 }
 
-
-
-.frequently .container .answer .one input:checked+label::after {
+/* .frequently .container .answer .one input:checked+label::after {
     transform: rotate(135deg);
-}
+} */
 
 .frequently .container .answer .one input:checked+label+.content {
     max-height: 600px;
